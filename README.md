@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    06.03.2022 23:00 |   0     |
+|    11.03.2023 23:00 |   0     |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
