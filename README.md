@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    11.03.2023 23:00 |   0     |
+|    15.03.2024 23:00 |   0     |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -11,3 +11,10 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 --- 
 
 Tylko notatki z zajęć. Jeszcze bez punktów.
+
+Spróbuj kilka początkowych zadań z: [Python @ exercism.org](https://exercism.org/tracks/python/concepts).
+
+Rozwiania zamieść w tym repozytorium. 
+
+Poćwicz komendy GitHuba.
+
